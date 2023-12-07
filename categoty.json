@@ -1,0 +1,23 @@
+[
+    {
+      "cat_code": "manga",
+      "category_name": "Manga",
+      "relevant_image": "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "cat_code": "sifi",
+      "category_name": "Science Fiction",
+      "relevant_image": "https://images.unsplash.com/photo-1571818684035-c1afe7eab7f5?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "cat_code": "fantasy",
+      "category_name": "Fantasy",
+      "relevant_image": "https://images.unsplash.com/photo-1510218830377-2e994ea9087d?q=80&w=2032&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "cat_code": "novel",
+      "category_name": "Novel",
+      "relevant_image": "https://images.unsplash.com/photo-1569511165985-82767e534026?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+  
